@@ -2,7 +2,7 @@ Professional AI Video Auto-Cutter
 
 NCOTS Studio adalah aplikasi desktop *video editing* otomatis berbasis **Python & PySide6** yang didesain khusus untuk *content creator* dan agensi sosial media. Aplikasi ini dapat memotong video secara presisi dan mengubahnya ke berbagai rasio layar (YouTube, TikTok, Instagram) secara bersamaan (*Batch Processing*), lengkap dengan integrasi AI Generatif untuk pembuatan *background* otomatis.
 
-## ✨ Fitur Unggulan
+## ✨ Fitur
 
 - **Smart Batch Processing:** Potong satu video dan *render* ke 5 format rasio layar berbeda (9:16, 16:9, 1:1, 5:7, 3:4) dalam sekali klik.
 - **OpenAI DALL-E 3 Integration:** Mode khusus *Podcast* (9:16) yang dapat secara otomatis memanggil API OpenAI untuk membuat dan menempelkan *background* hasil AI (DALL-E 3) agar video lanskap (16:9) tidak terpotong di kiri-kanannya.
